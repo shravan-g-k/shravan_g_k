@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravan2006&label=Profile%20views&color=0e75b6&style=flat" alt="shravan2006" /> </p>
 
-<h3 align="left">Currently learning Django
-</h3>
 <p align="left">
 </p>
 
