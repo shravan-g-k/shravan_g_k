@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shravan2006&label=Profile%20views&color=0e75b6&style=flat" alt="shravan2006" /> </p>
 <p align="left"> <img src="https://www.codewars.com/users/shravan2006/badges/large" alt="https://www.codewars.com/users/shravan2006" /> </p>
 
 
