@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://www.codewars.com/users/shravan2006/badges/large" alt="https://www.codewars.com/users/shravan2006" /> </p>
+<p align="left"> <img src="https://www.codewars.com/users/shravan_g_k/badges/large" alt="https://www.codewars.com/users/shravan2006" /> </p>
 
 
 <p align="left">
